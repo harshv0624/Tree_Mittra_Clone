@@ -1,5 +1,7 @@
 # Tree Mittra Mobile App
 
+To see the outputs of the project check out the OUTPUTS folder. This application is the clone of app Tree Mittra(Play Store) Developed by the TATA Company. It still had many mistakes and bad coding practise but in future i will update it and make it more efficient. Please Contribute if u can. At backend i have used the mongoDb database. Enjoy !! 
+
 Tree Mittra is a mobile application that encourages users to adopt, plant, and nurture trees. This repository contains the code for the React Native mobile app, including features such as user registration, email verification, and displaying environmental information.
 
 ## Table of Contents
@@ -35,21 +37,20 @@ Tree Mittra is a mobile application that encourages users to adopt, plant, and n
 #Code Overview
 #Backend
 The backend is built with Node.js and Express. It includes routes for user registration, email verification, and fetching environmental information.
-
 Routes/: Contains the backend route handlers.
 Schema/: Defines Mongoose schemas for MongoDB.
-Frontend
-The frontend is built with React Native using Expo. It includes screens for user login, email verification, and displaying environmental information.
 
+#Frontend
+The frontend is built with React Native using Expo. It includes screens for user login, email verification, and displaying environmental information.
 Screens/: Contains React Native components for different screens.
 Navigation/: Defines navigation stack and drawer.
-Usage
+
+#Usage
 Register a new user using the mobile app.
 Receive a verification code via email.
 Enter the verification code to complete the registration.
 Explore environmental information and features of the Tree Mittra app.
-Contributing
+
+#Contributing
 Contributions are welcome! Please follow the Contributing Guidelines for details.
 
-License
-This project is licensed under the MIT License.
